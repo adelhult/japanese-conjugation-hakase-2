@@ -2,7 +2,9 @@
 > A quick and hacky fork of Bailey Snyder's Japanese Conjugation app
 > that uses the verbs found in the book 'Hakase 2'. Note that I've just
 > listed the verbs in dictionary form and let Chat GPT to do the rest of the
-> manual labour, so there is a risk of errors.  
+> manual labour, so there is a risk of errors.
+>
+> You can access the app here: https://adelhult.github.io/japanese-conjugation-hakase-2/
 
 
 
